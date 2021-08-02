@@ -1,6 +1,6 @@
-# eslint-config-pancake
+# eslint-config-zenith
 
-Pancake Eslint config with:
+Zenith Eslint config with:
 
 - Airbnb config
 - Typescript
@@ -9,7 +9,7 @@ Pancake Eslint config with:
 ## Usage
 
 ```
-npx install-peerdeps --dev @pancakeswap/eslint-config-pancake
+npx install-peerdeps --dev @zenithswap/eslint-config-zenith
 ```
 
-Add `"extends": "@pancakeswap/eslint-config-pancake"` to your eslint config file.
+Add `"extends": "@zenithswap/eslint-config-zenith"` to your eslint config file.
