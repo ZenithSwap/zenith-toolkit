@@ -1,0 +1,20 @@
+{
+  "https://tokens.zenithswap.finance/zenithswap-default.json": {
+    "name": "ZenithSwap Default",
+    "homepage": "https://zenithswap.finance"
+  },
+  "https://tokens.zenithswap.finance/zenithswap-extended.json": {
+    "name": "ZenithSwap Extended",
+    "homepage": "https://zenithswap.finance"
+    
+  },
+  "https://tokens.zenithswap.finance/zenithswap-top-100.json": {
+    "name": "ZenithSwap Top 100",
+    "homepage": "https://zenithswap.finance"
+    
+  },
+  "https://tokens.coingecko.com/binance-smart-chain/all.json": {
+    "name": "CoinGecko",
+    "homepage": "https://www.coingecko.com"
+  }
+}
